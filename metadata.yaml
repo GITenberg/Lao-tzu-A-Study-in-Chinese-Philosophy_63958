@@ -1,0 +1,27 @@
+_repo: Lao-tzu-A-Study-in-Chinese-Philosophy_63958
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Watters, Thomas
+    birthdate: 1840
+    deathdate: 1901
+    gutenberg_agent_id: '52689'
+    url: http://www.gutenberg.org/2009/agents/52689
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Watters
+description: ''
+gutenberg_issued: '2020-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63958'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Laozi'
+- !lcsh 'Philosophy, Chinese'
+- !lcsh 'Laozi. Dao de jing'
+- GITenberg
+title: Lao-tzu, A Study in Chinese Philosophy
+url: http://www.gutenberg.org/ebooks/63958
