@@ -1,5 +1,8 @@
 _repo: Lao-tzu-A-Study-in-Chinese-Philosophy_63958
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63958-h/images/cover.jpg
 creator:
   author:
     agent_name: Watters, Thomas
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52689
     wikipedia: https://en.wikipedia.org/wiki/Thomas_Watters
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63958#Lao-tzu-A-Study-in-Chinese-Philosophy
 gutenberg_issued: '2020-12-04'
 gutenberg_type: Text
 identifiers:
